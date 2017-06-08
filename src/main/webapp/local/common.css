@@ -1,0 +1,51 @@
+body img {
+	max-width: 100%;
+}
+
+.form-required {
+	color: red;
+	margin-right: 5px;
+	position: relative;
+	top: 4px;
+	font-size: 18px;
+}
+
+.title-divide {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.hm-btn-group {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	line-height: 34px;
+}
+
+.hm-hr {
+	margin-top: 0;
+}
+
+.hm-article-info {
+	min-height: 48px;
+	padding-top: 10px;
+}
+
+.hm-article-info-base {
+	display: inline-block;
+	float: left;
+}
+
+.hm-article-info-base span {
+	padding-right: 20px;
+}
+
+.hm-article-info-extra {
+	display: inline-block;
+	float: right;
+	position: relative;
+}
+
+.weixin-bg {
+	background-color: #f5f5f5;
+}
+
